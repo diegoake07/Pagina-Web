@@ -3,13 +3,13 @@
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Tipografía legible y moderna */
             margin: 0; /* Quita márgenes del navegador */
             padding: 0; /* Quita relleno predeterminado */
-            background-color: #e0f7fa; /* Fondo azul claro */
+            background-color: #fefae0; /* Fondo azul claro */
             color: #333; /* Texto en gris oscuro para buena lectura */
         }
 
         /* Encabezado y pie de página con fondo verde oscuro y texto blanco */
         header, footer {
-            background-color: #00796b; /* Verde oscuro */
+            background-color: #283618; /* Verde oscuro */
             color: white; /* Texto blanco */
             text-align: center; /* Centrado horizontal */
             padding: 20px; /* Espaciado interno */
@@ -17,7 +17,7 @@
 
         /* Barra de navegación */
         nav {
-            background-color: #004d40; /* Verde más oscuro */
+            background-color: #606c38; /* Verde más oscuro */
             padding: 15px; /* Espaciado interno */
             text-align: center; /* Centra los enlaces */
         }
@@ -54,7 +54,7 @@
 
         /* Títulos secundarios con color verde oscuro */
         h2 {
-            color: #00695c; /* Verde oscuro */
+            color: #606c38; /* Verde oscuro */
         }
 
         /* Imágenes y videos centrados y adaptables al tamaño */
